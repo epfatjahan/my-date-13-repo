@@ -1,0 +1,168 @@
+* {
+      
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+width: 1200px;
+margin: auto;
+}
+.header { 
+
+          width: 100%;
+          padding: 20px;
+          background-color:rgb(212, 189, 15); 
+}
+.header ul {
+           text-align: right;
+           font-weight: 700;
+}
+.header ul li{
+           list-style-type: none;
+           display: inline;
+           color:black ; 
+           padding: 10px;
+           }
+
+.header ul li
+            a{ link-style-type:none;
+              color: white ;}
+            
+
+
+.baceground{
+         width: 100%;
+         height: 80vh;
+         background: url("pic1.jfif");
+         background-repeat: no-repeat;
+         background-size: cover;
+      
+         
+}
+.section3 {
+      width: 100%;
+      overflow: hidden;
+      
+}
+.left{ 
+      width: 50%;
+      height: 80vh;
+      background: url("pic2.jfif");
+      float: left;
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+      
+}
+   
+.right{
+  width: 50%;
+  height: 80vh;
+  background-color: pink;
+  float: right;
+}
+.right ul{
+     text-align: right;
+     font-weight: 700; 
+     padding-top: 460px;
+}
+.right ul li{
+                   
+list-style-type: none;
+padding: 10px;
+}
+
+.section4{
+     width: 100%;
+     height: 300px;
+    
+
+}
+.left4{
+   width: 400px;
+   height: 300px;
+   background: url("pic3.jfif");
+   background-position: left;
+   background-repeat: no-repeat;
+   background-size: cover;
+   float: left;
+}
+.center4{
+   width: 400px;
+   height: 300px;
+   background: url("pic4.jfif");
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   float: right;
+}
+.right4{
+   width: 400px;
+   height: 300px;
+   background: url("pic5.jfif");
+   background-position: right;
+   background-repeat: no-repeat;
+   background-size: cover;
+   float: right;
+   
+}
+.footer{
+
+     width: 100%;
+     padding: 10px;
+     background-color: bisque;
+}
+.footer h1{
+       text-align: center;
+       color: black;
+}
+.contact.html{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+.container1{
+width: 1000px;
+margin: auto;         
+}
+.header { 
+   
+   width: 100%;
+   padding: 20px;
+   background-color:rgb(212, 189, 15); 
+   text-align: center;
+}
+.left1{
+      width: 50%;
+      height: 35vh;
+      background-color: aqua;
+      float: left;
+      padding-top: 60px;
+      padding-left: 30px;
+}
+.right1{
+   width: 50%;
+   height: 35vh;
+   background-repeat: no-repeat;
+   background: url("ask.jfif");
+   background-size: 92%;
+   float: right;
+   padding-bottom: 20px;
+
+}
+.section3c{
+            width: 100%;
+            height: 85vh;
+            background: url("welcome\ f.jfif");
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+
+.footer1{
+   
+     width: 100%;
+     padding: 10px;
+     background-color: gold;
+     text-align: center;
+}
